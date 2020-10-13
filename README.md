@@ -1,4 +1,4 @@
-# MySythesizer20200301
+# MySythesizer_pure
 
 Purpose: Synthesizing tabular data and evaluete the privacy
 
